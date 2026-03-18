@@ -1,1 +1,2 @@
-# Python-Portfolio
+# Portfolio
+Python, IT Labs
