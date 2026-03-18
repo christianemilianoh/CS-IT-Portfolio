@@ -1,5 +1,4 @@
-##### Cyber Security Labs, Python, IT
-[Cyber Security Write Ups](#headers)
+##### Cyber Security, IT, Python
 
 ##### Cyber Security/IT Write Ups
 *   [FTP Server Malware Analysis Lab Report](WriteUps/FTP-Server-Malware-Analysis-Lab-Report.md)
