@@ -1,4 +1,4 @@
-##### Cyber Security, IT, Python
+## Cyber Security, IT, Python
 
 ##### Cyber Security/IT Write Ups
 *   [Installing Ubuntu Server](WriteUps/Installing-Ubuntu-Server.md)
@@ -8,5 +8,5 @@
 
 
 
-## Python
+#### Python
 *   [Python Fundmentals](Python)
