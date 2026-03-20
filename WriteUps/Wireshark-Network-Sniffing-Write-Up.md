@@ -16,45 +16,62 @@ Another example of Wireshark being able to list details of a variety of network 
 
 Appendices
 Figure 1. ARP Protocol
+
 <img width="786" height="228" alt="Picture1" src="https://github.com/user-attachments/assets/c71da772-be04-4364-9771-2fa9293293f4" />
 
 Figure 2. DNS Protocol
+
 <img width="786" height="229" alt="Picture2" src="https://github.com/user-attachments/assets/8e6a64d7-23c4-4160-a70c-f22e45c325f4" />
 
 Figure 3. HTTP Protocol
+
 <img width="786" height="163" alt="Picture3" src="https://github.com/user-attachments/assets/a9d6db03-eec7-4e54-bd73-e4fb5ae4c547" />
 
 Figure 4. TCP Protocol
+
 <img width="786" height="230" alt="Picture4" src="https://github.com/user-attachments/assets/61d83d9f-d941-4517-86c3-37ed89ff9907" />
 
 
 Figure 5. TLSv1.3 (HTTPS) Protocol
+
 <img width="786" height="229" alt="Picture5" src="https://github.com/user-attachments/assets/c4060136-2fc3-4dda-b7d3-71d670244c43" />
 
 
 Figure 6. UDP Protocol
+
 <img width="786" height="228" alt="Picture6" src="https://github.com/user-attachments/assets/62c51c09-871f-424d-8071-9c9fe96cb0a9" />
 
 
 Figure 7. ICMP Protocol
+
 <img width="786" height="228" alt="Picture7" src="https://github.com/user-attachments/assets/c6ba2c35-1c5e-47fd-91d5-f82bd9903850" />
 
 
 Figure 8. FTP Protocol
+
 <img width="786" height="139" alt="Picture8" src="https://github.com/user-attachments/assets/5997cd05-5608-46ea-be59-7265c54e25b5" />
 
 
 Figure 9. One Hour Scan Network Statistics
 
+<img width="786" height="416" alt="Picture9" src="https://github.com/user-attachments/assets/4c82a9df-992a-47e7-99be-f1990a4491eb" />
+
+
 
 Figure 10. Greater than Four Hour Scan Network Statistics
 
+<img width="786" height="416" alt="Picture10" src="https://github.com/user-attachments/assets/5edaa95f-b0c8-4711-98bf-788cea0267a7" />
+
+
+
 
 Figure 11. ARP with MAC and IP Address
+
 <img width="786" height="220" alt="Picture11" src="https://github.com/user-attachments/assets/9aadc48c-805b-49b9-a01c-1809e5fd2cda" />
 
 
 Figure 12.  Capture your computer’s MAC and IP Address
+
 <img width="628" height="466" alt="Picture12" src="https://github.com/user-attachments/assets/b8360716-77e4-4ab9-887f-0e0372837105" />
 
 
@@ -68,8 +85,3 @@ Bibliography
 Jain, G. (2021, March). Application of snort and wireshark in network traffic analysis. In IOP Conference Series: Materials Science and Engineering (Vol. 1119, No. 1, p. 012007). IOP Publishing.
 
 Mabsali, N. A., Jassim, H., & Mani, J. (2023, January). Effectiveness of Wireshark Tool for Detecting Attacks and Vulnerabilities in Network Traffic. In 1st International Conference on Innovation in Information Technology and Business (ICIITB 2022) (pp. 114-135). Atlantis Press.
-
-
-
-
-
