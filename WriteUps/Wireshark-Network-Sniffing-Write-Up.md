@@ -45,11 +45,9 @@ Figure 8. FTP Protocol
 
 
 Figure 9. One Hour Scan Network Statistics
-<img width="786" height="416" alt="Picture9" src="https://github.com/user-attachments/assets/c97398a8-43e7-48c0-89b3-7dc48d6948d7" />
 
 
 Figure 10. Greater than Four Hour Scan Network Statistics
-<img width="786" height="416" alt="Picture10" src="https://github.com/user-attachments/assets/4c61dee9-17c0-4585-8921-7620912ddc64" />
 
 
 Figure 11. ARP with MAC and IP Address
