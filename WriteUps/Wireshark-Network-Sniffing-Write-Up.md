@@ -16,6 +16,7 @@ Another example of Wireshark being able to list details of a variety of network 
 
 Appendices
 Figure 1. ARP Protocol
+<img width="786" height="228" alt="Picture1" src="https://github.com/user-attachments/assets/c71da772-be04-4364-9771-2fa9293293f4" />
 
 Figure 2. DNS Protocol
 
