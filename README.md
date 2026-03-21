@@ -3,6 +3,8 @@
 ##### Cyber Security Projects, IT Write Ups
 ### Projects
 *   [Network Infrastructure Project](WriteUps/Network-Infrastructure-Project.md)
+*   [Home Lab Project](WriteUps/Home-Lab-Project.md)
+
   
 ### Write Ups
 *   [Installing Ubuntu Server](WriteUps/Installing-Ubuntu-Server.md)
