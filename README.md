@@ -20,8 +20,8 @@
 *   [AWS Honeypot Write Up](WriteUps/AWS-Honeypot-Write-Up.md)<br>
 
 ### Wireshark
-*   [Wireshark Demostration](WriteUps/Wireshark/1-Wireshark-Demostration.md)
-*   [Wireshark Network Sniffing Write Up](WriteUps/Wireshark/2-Wireshark-Network-Sniffing-Write-Up.md)
+*   [Wireshark Network Sniffing Write Up](WriteUps/Wireshark/1-Wireshark-Network-Sniffing-Write-Up.md)
+*   [Wireshark Demostration](WriteUps/Wireshark/2-Wireshark-Demostration.md)
 
 
 ##  Python
