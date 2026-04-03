@@ -1,27 +1,24 @@
 ## What IP address appears most frequently in the Source or Destination columns? What device is it?
 
 From scrolling around the packet list, I found that the IP address 10.****** appears in the Destination column most frequently, and for the Source column it’s between quite a few addresses. 10.****** is the IP address for my device I am using to complete this lab, and the source IP addresses are from the servers I’m connecting to when I access my.utsa.edu and click on various links on the website.
- <img width="780" height="227" alt="Picture1" src="https://github.com/user-attachments/assets/60748a56-5f83-40e0-8d4e-86da45dea13e" /><br>
+<img width="780" height="227" alt="Picture1" src="https://github.com/user-attachments/assets/60748a56-5f83-40e0-8d4e-86da45dea13e" /><br>
 ### Figure 1: The packet list pane displaying frequently appearing IP addresses.
 
 
 ## Which protocol appears most frequently in the Protocol column? What is the purpose of this protocol?
-
 I found that the TCP appears the most when looking at network traffic protocols within the column. TCP assures that data that’s being delivered between a host and end user is properly delivered, with information readily available if an issue with the transfer of data over a network protocol was to exist.
- 
+<img width="780" height="228" alt="Picture2" src="https://github.com/user-attachments/assets/c9931d0d-c4a3-415b-9abe-adfa19c1be14" /><br>
 ### Figure 2: The packet list with TCP appearing most frequently.
 
 
 ## Identify the OSI model layers corresponding to rows 2, 3, and 4 in the Packet Details pane.
-
 After selecting a packet and viewing the packet details pane I found that row 2 is the data link layer, row 3 is the network layer, and row 4 is the transport layer. Row 2 shows “Ethernet II” the method of data linking, row 3 shows I’m connected to the network through IPv6, and row 4 shows TCP as the protocol used to transport data.
- 
+<img width="780" height="541" alt="Picture3" src="https://github.com/user-attachments/assets/cd3c0c44-c161-4666-a30e-bcc10f61208e" /><br>
 ### Figure 3: Wireshark showing packet details for a DNS response.
 
 
 ## Locate a DNS query. What domain name was being resolved, and what IP address was returned?
-
-To locate a DNS query, I clicked the Protocol column title to filter all the traffic by protocols. I found a DNS query packet that contained the my.utsa.edu domain and expanded the fields in the packet detail pane to learn more. I found that the domain www.utsa.edu and 129.****** were being returned. I found this under the Domain Name System (response) section, and the Queries and Answer subsection allowed me to obtain this information.
+To locate a DNS query, I clicked the Protocol column title to filter all the traffic by protocols. I found a DNS query packet that contained the my.utsa.edu domain and expanded the fields in the packet detail pane to learn more. I found that the domain utsa.edu and 129.****** were being returned. I found this under the Domain Name System (response) section, and the Queries and Answer subsection allowed me to obtain this information.
  
 ### Figure 4: A selected packet that's a DNS query.
 
