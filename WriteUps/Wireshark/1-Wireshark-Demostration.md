@@ -7,7 +7,7 @@ From scrolling around the packet list, I found that the IP address 10.****** app
 
 ## Which protocol appears most frequently in the Protocol column? What is the purpose of this protocol?
 I found that the TCP appears the most when looking at network traffic protocols within the column. TCP assures that data that’s being delivered between a host and end user is properly delivered, with information readily available if an issue with the transfer of data over a network protocol was to exist.
-<img width="780" height="228" alt="Picture2" src="https://github.com/user-attachments/assets/c9931d0d-c4a3-415b-9abe-adfa19c1be14" /><br>
+<br><img width="780" height="228" alt="Picture2" src="https://github.com/user-attachments/assets/c9931d0d-c4a3-415b-9abe-adfa19c1be14" /><br>
 ### Figure 2: The packet list with TCP appearing most frequently.
 
 
