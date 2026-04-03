@@ -33,7 +33,7 @@ To find my MAC address, I decided to use the same DNS query from step 4 and deci
 
 ### Figure 5: The packet details pane displaying MAC addresses for a DNS query.
 
-Apply a display filter (e.g., http, dns). What did you observe about the traffic for that protocol?
+## Apply a display filter (e.g., http, dns). What did you observe about the traffic for that protocol?
 
 Using the documentation provided in the hyperlink, I added a DNS displayed filter. This resulted in being able to see a clearer list of DNS responses, which allows me to see quite a lot of domains and IP addresses as I scrolled down. Some were known domains such as my.utsa and others were DNS services like CloudFlare. Some of these requests were routing these domains to specific IP addresses, which is the purpose of DNS. Through WireShark I was able to capture a moment of network traffic and see different protocols and information that show how data is transmitted and how it can be recorded and analyzed.
  
