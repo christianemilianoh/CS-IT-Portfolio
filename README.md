@@ -11,7 +11,7 @@
 *   [Home Lab Project](Projects/Home-Lab-Project.md)
 
   
-###  Write Ups
+##  Write Ups
 *   [Installing Ubuntu Server](WriteUps/Installing-Ubuntu-Server.md)
 *   [Bash Scripting Write Up](WriteUps/Bash-Scripting-Write-Up.md)
 *   [Ubuntu User and File Permissions Write Up](WriteUps/Ubuntu-User-And-File-Permissions-Write-Up.md)
@@ -22,5 +22,5 @@
 
 
 
-###  Python
+##  Python
 *   [Python Fundmentals](Python)
