@@ -15,14 +15,13 @@
 *   [Installing Ubuntu Server](WriteUps/Installing-Ubuntu-Server.md)
 *   [Bash Scripting Write Up](WriteUps/Bash-Scripting-Write-Up.md)
 *   [Ubuntu User and File Permissions Write Up](WriteUps/Ubuntu-User-And-File-Permissions-Write-Up.md)
-*   [Wireshark Network Sniffing Write Up](WriteUps/Wireshark-Network-Sniffing-Write-Up.md)
 *   [FTP Server Malware Analysis Lab Report](WriteUps/FTP-Server-Malware-Analysis-Lab-Report.md)<br>
 *   [AWS Cloud Server Write Up](WriteUps/AWS-Cloud-Server-Write-Up.md)
 *   [AWS Honeypot Write Up](WriteUps/AWS-Honeypot-Write-Up.md)<br>
 
 ### Wireshark
-*  [Wireshark Demostration](WriteUps/Wireshark/1-Wireshark-Demostration.md)
-
+*   [Wireshark Demostration](WriteUps/Wireshark/1-Wireshark-Demostration.md)
+*   [Wireshark Network Sniffing Write Up](WriteUps/Wireshark/2-Wireshark-Network-Sniffing-Write-Up.md)
 
 
 ##  Python
