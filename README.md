@@ -4,7 +4,7 @@
 ###  Network Infrastructure Project
 *   [Firewall Setup](Projects/Network-Infastructure-Project/1-Firewall-Setup.md)
 *   [Active Directory Setup](Projects/Network-Infastructure-Project/2-Active-Directory-DC-Setup.md)
-*   [SIEM Demostration](Projects/Network-Infastructure-Project/3-SIEM-Demostration.md)
+*   [SIEM Setup](Projects/Network-Infastructure-Project/3-SIEM-Setup.md)
 
 
 ###  Home Lab
