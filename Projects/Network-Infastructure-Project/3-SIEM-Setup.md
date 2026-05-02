@@ -1,5 +1,5 @@
 <img width="1478" height="840" alt="Unsaved Image 1" src="https://github.com/user-attachments/assets/b225034f-65fe-4f79-a1d7-c6e6a0bf8b48" /><br>
-## Adding new network interface to pfSense.
+## Adding a new network interface to pfSense.
 
 <img width="1600" height="945" alt="Unsaved Image 2" src="https://github.com/user-attachments/assets/166abd9f-3fd2-4d5d-b626-59336d428021" /><br>
 ## Assiging a subnet of rules to the network interface to prepare it for use.
