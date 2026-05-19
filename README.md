@@ -13,7 +13,7 @@
 
 
 ###  Network Infastructure Project
-*   [Cisco Packet Tracer Demostration](Projects/Cisco Packet Tracer Demostration.md)
+*   [Cisco Packet Tracer Demostration](Projects/Cisco-Packet-Tracer-Demonstration.md)
 
 
   
