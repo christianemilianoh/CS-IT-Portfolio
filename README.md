@@ -1,14 +1,20 @@
 # Cyber Security, IT, Python
 
 ## Projects
+
+###  Home Lab Project
+*   [Home Lab Project](Projects/Home-Lab-Project.md)
+
+
 ###  Network Infrastructure Project
 *   [Firewall Setup](Projects/Network-Infastructure-Project/1-Firewall-Setup.md)
 *   [Active Directory Setup](Projects/Network-Infastructure-Project/2-Active-Directory-DC-Setup.md)
 *   [SIEM Setup](Projects/Network-Infastructure-Project/3-SIEM-Setup.md)
 
 
-###  Home Lab
-*   [Home Lab Project](Projects/Home-Lab-Project.md)
+###  Network Infastructure Project
+*   [Cisco Packet Tracer Demostration](Projects/Cisco Packet Tracer Demostration.md)
+
 
   
 ##  Write Ups
