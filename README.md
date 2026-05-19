@@ -12,7 +12,7 @@
 *   [SIEM Setup](Projects/Network-Infastructure-Project/3-SIEM-Setup.md)
 
 
-###  Network Infastructure Project
+###  Network Project
 *   [Cisco Packet Tracer Demostration](Projects/Cisco-Packet-Tracer-Demonstration.md)
 
 
