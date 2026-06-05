@@ -1,6 +1,6 @@
 # Cyber Security, IT, Python
 
-*  [My TryHackMe](https://tryhackme.com/p/cehthm)
+*  [My TryHackMe Profile](https://tryhackme.com/p/cehthm)
 
 ## Projects
 
