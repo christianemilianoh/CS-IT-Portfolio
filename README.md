@@ -7,12 +7,12 @@
 ###  Home Lab Project
 *   [Home Lab Project](Projects/Home-Lab-Project.md)
 
-###  Network Infrastructure Project
+###  Network Infrastructure Project (SIEM & Firewall Setup)
 *   [Firewall Setup](Projects/Network-Infastructure-Project/1-Firewall-Setup.md)
 *   [Active Directory Setup](Projects/Network-Infastructure-Project/2-Active-Directory-DC-Setup.md)
 *   [SIEM Setup](Projects/Network-Infastructure-Project/3-SIEM-Setup.md)
 
-##  Write Ups
+##  Write Ups (Network, IDS and Security and Forensics Analysis)
 *   [Installing Ubuntu Server](WriteUps/Installing-Ubuntu-Server.md)
 *   [Bash Scripting Write Up](WriteUps/Bash-Scripting-Write-Up.md)
 *   [Ubuntu User and File Permissions Write Up](WriteUps/Ubuntu-User-And-File-Permissions-Write-Up.md)
@@ -20,7 +20,7 @@
 *   [AWS Cloud Server Write Up](WriteUps/AWS-Cloud-Server-Write-Up.md)
 *   [AWS Honeypot Write Up](WriteUps/AWS-Honeypot-Write-Up.md)<br>
 
-### Wireshark
+### Wireshark (IP and Network Activity Analysis)
 *   [Wireshark Network Sniffing Write Up](WriteUps/Wireshark/1-Wireshark-Network-Sniffing-Write-Up.md)
 *   [Wireshark Demostration](WriteUps/Wireshark/2-Wireshark-Demostration.md)
 
